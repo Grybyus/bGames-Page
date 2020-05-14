@@ -1,0 +1,42 @@
+.img_preview {
+    display: block !important;
+    max-width: 100% !important;
+    height: auto !important;
+}
+
+.icon-margin{
+    margin-bottom: 2px;
+}
+
+/*.download-link:focus,
+.download-link:hover{
+    color: #00D999;
+
+}*/
+
+.image-slider {
+  height: 500px;
+}
+
+.single-service:focus a,
+.single-service:hover a{
+    color: #ff871c;
+}
+
+.single-service a,
+.single-service a{
+    margin-left: 0px;
+}
+
+.slick-prev::before {
+  content: "←";
+}
+
+.slick-next::before {
+  content: "→";
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: #ff871c;
+}

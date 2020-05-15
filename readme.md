@@ -26,7 +26,7 @@ Video game addiction is a problem caused by the increase in gamers and facilitie
 <br>
 
 To download the different components, access the following links:
-- [bGames-Cloud](https://github.com/Grybyus/bGames-Cloud)
-- [bGames-LocalApp](https://github.com/Grybyus/bGames-LocalApp)
+- [bGames-Cloud](https://github.com/Grybyus/bGames-Cloud): Online Sources
+- [bGames-LocalApp](https://github.com/Grybyus/bGames-LocalApp): Sensors (Local Sources) and User Interface
 - [bGames-AndroidPodometer](https://github.com/Grybyus/bGames-AndroidPodometer)
 - [bGames-UnityPong](https://github.com/Grybyus/bGames-UnityPong)

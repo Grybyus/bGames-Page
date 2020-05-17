@@ -30,3 +30,4 @@ To download the different components, access the following links:
 - [bGames-LocalApp](https://github.com/Grybyus/bGames-LocalApp): Sensors (Local Sources) and User Interface
 - [bGames-AndroidPodometer](https://github.com/Grybyus/bGames-AndroidPodometer)
 - [bGames-UnityPong](https://github.com/Grybyus/bGames-UnityPong)
+- [bGames-LocalPluginNeuroskyMindwave](https://github.com/Grybyus/bGames-LocalPluginNeuroskyMindwave/tree/master)

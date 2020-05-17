@@ -31,7 +31,7 @@ To download the different components, access the following links:
 - [bGames - AndroidPodometer](https://github.com/Grybyus/bGames-AndroidPodometer)
 - [bGames - UnityPong](https://github.com/Grybyus/bGames-UnityPong)
 - [bGames - LocalPluginNeuroskyMindwave](https://github.com/Grybyus/bGames-LocalPluginNeuroskyMindwave/tree/master)
-- [BGames - AssetUnity] (https://github.com/Grybyus/BGAssetUnity)
+- [BGames - AssetUnity](https://github.com/Grybyus/BGAssetUnity)
 
 
 There is a small guide to develop new local plugins and their interaction with a video game in PDF to access see the following link:

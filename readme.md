@@ -31,3 +31,7 @@ To download the different components, access the following links:
 - [bGames-AndroidPodometer](https://github.com/Grybyus/bGames-AndroidPodometer)
 - [bGames-UnityPong](https://github.com/Grybyus/bGames-UnityPong)
 - [bGames-LocalPluginNeuroskyMindwave](https://github.com/Grybyus/bGames-LocalPluginNeuroskyMindwave/tree/master)
+
+
+There is a small guide to develop new local plugins and their interaction with a video game in PDF to access see the following link:
+[Spanish Guide](https://github.com/Grybyus/bGames-LocalApp/blob/master/Spanish%20Guide%20%20-b_Games_2019%20-%20David_Calistro-110-121.pdf)

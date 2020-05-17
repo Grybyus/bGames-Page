@@ -26,11 +26,12 @@ Video game addiction is a problem caused by the increase in gamers and facilitie
 <br>
 
 To download the different components, access the following links:
-- [bGames-Cloud](https://github.com/Grybyus/bGames-Cloud): Online Sources
-- [bGames-LocalApp](https://github.com/Grybyus/bGames-LocalApp): Sensors (Local Sources) and User Interface
-- [bGames-AndroidPodometer](https://github.com/Grybyus/bGames-AndroidPodometer)
-- [bGames-UnityPong](https://github.com/Grybyus/bGames-UnityPong)
-- [bGames-LocalPluginNeuroskyMindwave](https://github.com/Grybyus/bGames-LocalPluginNeuroskyMindwave/tree/master)
+- [bGames - Cloud](https://github.com/Grybyus/bGames-Cloud): Online Sources
+- [bGames - LocalApp](https://github.com/Grybyus/bGames-LocalApp): Sensors (Local Sources) and User Interface
+- [bGames - AndroidPodometer](https://github.com/Grybyus/bGames-AndroidPodometer)
+- [bGames - UnityPong](https://github.com/Grybyus/bGames-UnityPong)
+- [bGames - LocalPluginNeuroskyMindwave](https://github.com/Grybyus/bGames-LocalPluginNeuroskyMindwave/tree/master)
+- [BGames - AssetUnity] (https://github.com/Grybyus/BGAssetUnity)
 
 
 There is a small guide to develop new local plugins and their interaction with a video game in PDF to access see the following link:
